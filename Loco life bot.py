@@ -51,5 +51,5 @@ async def on_ready():
 	print(bot.user.name + "#" + bot.user.discriminator)
 	print(bot.user.id)
 	print('------')
-	await bot.change_presence(game=discord.Game(name="with locolives/creator CHETAN"))
-bot.run('')
+	await bot.change_presence(game=discord.Game(name="with locolives/creator Soubhagya"))
+bot.run('NzA5NDYxMDgyNTY5MzEwMjg4.XrmQEg.nAmIJluotuyGmeC1h6g51iPmizo')
