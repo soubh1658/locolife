@@ -1,1 +1,1 @@
-worker: python main1_2.py 
+worker: python Loco life bot.py 
